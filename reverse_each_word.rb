@@ -5,5 +5,4 @@ def reverse_each_word(string)
     reverse_strings << element.reverse!
   end
   reverse_strings.join(" ")
-  reverse_strings
 end
